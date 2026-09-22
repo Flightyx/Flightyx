@@ -1,4 +1,5 @@
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=Flightyx&theme=tokyonight&headerStyle=windows&typingSpeed=80&hostname=github.com&commands=neofetch%2Clanguages%2Cuptime%2Ceditor%2Ccargo%20run%2Cexit&customCommands=%7B%22cargo%20run%22%3A%22error%5BE0382%5D%3A%20borrow%20of%20moved%20value%3A%20%60s1%60%22%2C%22editor%22%3A%22Zed%22%7D)](https://github.com/Flightyx)
 
-### 💻 Recent Coding Stats
-[![Your WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Flighty&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## 📊 My Hackatime Coding Stats
+![Hackatime Stats](github-metrics-hackatime.svg)
+
